@@ -6,6 +6,9 @@ git add . o git add -a
 git status
 git commit -m "Descripcion del cambio en el proyecto"
 git plush
-
+```
 ## Nota:
-Si no me dice quien soy, entonces necesito restaurar la PC.
+Si no me dice quien soy, entonces necesito restaurar la PC. 
+
+## Volver a hacerlo 
+Nose que hacer
