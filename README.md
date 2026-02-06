@@ -11,4 +11,4 @@ git plush
 Si no me dice quien soy, entonces necesito restaurar la PC. 
 
 ## Volver a hacerlo 
-Nose que hacer
+Practicando el programa.
